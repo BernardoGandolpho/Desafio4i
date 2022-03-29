@@ -2,7 +2,7 @@
 
 Passos para executar a aplicação:
 
-$ source venv/bin/activate]
+$ source venv/bin/activate
 
 $ pip3 install -r requirements.txt
 
